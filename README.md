@@ -19,6 +19,6 @@ AudioCache _audioCache = AudioCache(prefix: "audios/");
 
 ### Prints 📸📽
 <p align="center">
-  <img src="https://github.com/petscaramussi/aprenda_ingles/blob/main/assets/imagens/sreen1.png" width="30%" height="30%">
-  <img src="https://github.com/petscaramussi/aprenda_ingles/blob/main/assets/imagens/sreen2.png" width="30%" height="30%">
+  <img src="https://github.com/petscaramussi/aprenda_ingles/blob/main/assets/imagens/sreen1.png" width="60%" height="60%">
+  <img src="https://github.com/petscaramussi/aprenda_ingles/blob/main/assets/imagens/sreen2.png" width="60%" height="60%">
 </p>
