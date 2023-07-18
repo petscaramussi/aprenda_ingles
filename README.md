@@ -18,7 +18,14 @@ AudioCache _audioCache = AudioCache(prefix: "audios/");
 ```
 
 ### Prints 📸📽
-<p align="center">
-  <img src="https://github.com/petscaramussi/aprenda_ingles/blob/main/assets/imagens/sreen1.png" width="40%" height="40%">
-  <img src="https://github.com/petscaramussi/aprenda_ingles/blob/main/assets/imagens/sreen2.png" width="40%" height="40%">
-</p>
+<div align="center">
+  <img src="https://github.com/petscaramussi/images/blob/main/insta/login.png" width="20%" height="20%">
+  <img src="https://github.com/petscaramussi/images/blob/main/insta/register.png" width="20%" height="20%">
+  <img src="https://github.com/petscaramussi/images/blob/main/insta/ownprofile.png" width="20%" height="20%">
+  <img src="https://github.com/petscaramussi/images/blob/main/insta/posts.png" width="20%" height="20%">
+  <br><br><br>
+  <img src="https://github.com/petscaramussi/images/blob/main/insta/search.png" width="20%" height="20%">
+  <img src="https://github.com/petscaramussi/images/blob/main/insta/user.png" width="20%" height="20%">
+  <img src="https://github.com/petscaramussi/images/blob/main/insta/addPost.png" width="20%" height="20%">
+  
+</div>
